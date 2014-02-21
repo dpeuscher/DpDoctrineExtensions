@@ -1,0 +1,12 @@
+{
+    "name": "dpeuscher/dp-doctrine-extensions",
+    "description": "Extensions to doctrine",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.3.x-dev",
+        "doctrine/doctrine-module": "0.9.x-dev",
+        "doctrine/doctrine-orm-module": "0.9.x-dev",
+        "dpeuscher/dp-zf-extensions": "dev-master"
+    }
+}
